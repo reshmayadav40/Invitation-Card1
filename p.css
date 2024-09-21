@@ -1,0 +1,32 @@
+
+body {
+    background-image: url("https://www.shutterstock.com/image-vector/illustration-lord-krishna-happy-janmashtami-260nw-1471766744.jpg") ; 
+    background-size: cover;
+    border:  5px 5px;
+ 
+ }
+ .abc {
+    
+     text-align:center;
+ }
+ p{
+     text-align: center;
+ }
+ h1{
+     text-align: center;
+    color:orange;
+    font-size:50px;
+ }
+ p {
+     color:rgb(219, 227, 215);
+     font-size:30px;
+ }
+ footer p {
+    color: white;
+     font-size: 50px;
+ }
+ 
+    
+ 
+ 
+  
